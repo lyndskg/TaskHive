@@ -1,6 +1,7 @@
 # TaskHive
 
 TaskHive is an interactive web and app platform designed to connect users seeking virtual help with others willing to take on rote, low-difficulty tasks on the Internet. 
+
 It operates similarly to a virtual taskrabbit service, where users can post jobs or contracts, offering payment to fellow users for their assistance. TaskHive aims to create a collaborative community where individuals can find help for various online tasks, making it easier for people to delegate and accomplish tasks efficiently.
 
 
